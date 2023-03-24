@@ -1,0 +1,7 @@
+In most case, we want check the aosp source code, but we don't real need all the aosp code, just a subproject.
+
+So this docker image setup the basic env to download aosp
+
+you can just run `repo sync subject` to download project.
+
+Ok, for now, we don't need you because I have already setup the aosp, maybe next time will continue.
